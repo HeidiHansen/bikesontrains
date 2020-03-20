@@ -4,14 +4,14 @@ title = "BikesOnTrains"
 theme = "soho"
 
 [params]
-author = "Author Name"
+author = "Heidi and Phil"
 description = "My Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
 profilePicture = "images/profile.png"
 
-copyright = "Author Name"
+copyright = "Heidi and Phil"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
