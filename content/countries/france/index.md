@@ -1,4 +1,7 @@
-train-TER.md
+SNCF (Oui, TER, Transilien, RER, Teoz): Yes
+Thalys: NO
+TGV: YES
+TER (Transilien, RER, TER-GV): Yes
 
 # TER Trains:
 Names: TER, TER-GV
@@ -12,3 +15,4 @@ Exceptions:
     - Transilien + RER: M-F 6:30-9:00, 16:30-19:00 in Paris, 
     - Provence-Alpes-Cote d'Azur: TER: M-F 7:00-9:00, 16:30-18:30
     
+

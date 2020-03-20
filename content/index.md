@@ -8,29 +8,6 @@ Where are you trying to ride some bikes and trains?
 - _More coming soon_
 
 
-<h2>Trains in Europe</h2>
-<table>
-  <tr><th>Country</th><th>Company</th><th>Bikes allowed</th><th>Ticket required</th><th>Reservation required</th><th>Company</th></tr>
-  <tr><td>The Netherlands</td><td>NS</td><td>Yes, 1, 4, 9, 11</td><td>Yes</td><td>no</td></tr>
-  <tr><td>The Netherlands</td><td>RET</td><td>Yes</td></tr>
-  <tr><td>The Netherlands</td><td>{Arriva}</td><td>Yes</td></tr>
-  <tr><td>The Netherlands</td><td>{Keolis}</td><td>Yes</td></tr>
-  <tr><td>The Netherlands</td><td>{Connexxion}</td><td>Yes</td></tr>
-  <tr><td>The Netherlands</td><td>Qbuzz</td><td>Yes</td></tr>
-  <tr><td>Belgium</td><td>NMBS, also known as SNCB (French) and NRCB (English)</td><td>Yes</td></tr>
-  <tr><td>France</td><td>SNCF (Oui, TER, Transilien, RER, Teoz)</td><td>Yes</td></tr>
-  <tr><td>France</td><td>Thalys</td><td>NO</td></tr>
-  <tr><td>France</td><td>TGV</td><td>Yes</td></tr>
-  <tr><td>France</td><td>TER (Transilien, RER, TER-GV)</td><td>Yes</td></tr>
-  <tr><td>Spain</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>Italy</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>Germany</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>Switzerland</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>Luxembourg</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>International (EU+UK)</td><td>NS</td><td>Yes</td></tr>
-  <tr><td>Morocco</td><td>NS</td><td>Yes</td></tr>
-</table>
-
 Legend:
 <ol>
   <li>All trains allow bikes</li>
