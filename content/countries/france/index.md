@@ -1,7 +1,12 @@
-SNCF (Oui, TER, Transilien, RER, Teoz): Yes
-Thalys: NO
-TGV: YES
-TER (Transilien, RER, TER-GV): Yes
+SNCF (Oui, TER, Transilien, RER, Teoz): Yes  
+Thalys: NO  
+TGV: YES  
+TER (Transilien, RER, TER-GV): Yes  
+
+Great resources for taking bikes on trains in France
+https://www.freewheelingfrance.com/planning-a-trip/bikes-and-french-trains.html
+https://www.freewheelingfrance.com/where-to-go/loire-cycling-train.html
+https://www.freewheelingfrance.com/planning-a-trip/taking-bikes-on-eurostar.html
 
 # TER Trains:
 Names: TER, TER-GV

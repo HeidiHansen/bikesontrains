@@ -8,4 +8,14 @@ Seeing as the UK is a myriad of local private train companies, there is no one w
 
 See if you can [reserve a bike on that line](https://www.thetrainline.com/en/help/question/4119/how-do-i-reserve-a-space-for-my-bike), and if there is any uncertainty you can usually book it and [talk to them on chat](https://www.thetrainline.com/en/help/contact/chat). 
 
-They'll either say "this is fine", "we've reserved you a spot", or "nope you can't take a bike on this, you fancy a refund"? 
+They'll either say "this is fine", "we've reserved you a spot", or "nope you can't take a bike on this, you fancy a refund"?
+
+https://www.eurostar.com/rw-en/travel-info/travel-planning/luggage/bikes
+
+# Ferries
+Ijmuiden (west of Amsterdam) to Newcastle: dfdsseaways.nl
+Round trips start at £72 (2 passengers + car). Reservations can be made online at dfdsseaways.nl. The farther in advance you make your reservations, the lower the price. A cabin is included in the price.
+Round trip is ~186
+Source: https://www.amsterdamtips.com/ferry-services-uk-holland
+Ijmuiden to Newcastle
+Newcastle to Ijmuiden
