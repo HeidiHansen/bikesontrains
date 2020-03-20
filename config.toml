@@ -5,18 +5,15 @@ theme = "soho"
 
 [params]
 author = "Heidi and Phil"
-description = "My Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.png"
+# profilePicture = "images/profile.png"
 
 copyright = "Heidi and Phil"
-license = "CC BY-SA 4.0"
-licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
 ## Set custom theme color.
-themeColor = "lightblue"
+# themeColor = "lightblue"
 
 ## Set custom CSS and/or JS to override site defaults.
 customCss = ["css/blog.css"]
@@ -26,22 +23,52 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "#"
+  url = "https://www.linkedin.com/in/jungledev/"
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/heidihansen/bikesontrains"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = "https://twitter.com/jungledev"
 
 [menu]
 
   [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
+    name = "Netherlands"
+    weight = 100
+    identifier = "netherlands"
+    url = "/countries/netherlands/"
+
+  [[menu.main]]
+    name = "Belgium"
+    weight = 100
+    identifier = "belgium"
+    url = "/countries/belgium/"
+
+  [[menu.main]]
+    name = "France"
+    weight = 100
+    identifier = "france"
+    url = "/countries/france/"
+
+  [[menu.main]]
+    name = "Morocco"
+    weight = 100
+    identifier = "morocco"
+    url = "/countries/morocco/"
+
+  [[menu.main]]
+    name = "Spain"
+    weight = 100
+    identifier = "spain"
+    url = "/countries/spain/"
+
+  [[menu.main]]
+    name = "United Kingom"
+    weight = 100
+    identifier = "uk"
+    url = "/countries/uk/"
