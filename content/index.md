@@ -1,3 +1,7 @@
+---
+title: stuff
+---
+
 Where are you trying to ride some bikes and trains?
 
 - [Belgium](/countries/belgium)
@@ -8,7 +12,6 @@ Where are you trying to ride some bikes and trains?
 - [Spain](/countries/spain)
 - [United Kingdom](/countries/uk)
 - _More coming soon_
-- [Links](/links)
 
 
 Legend:

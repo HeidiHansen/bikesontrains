@@ -1,4 +1,6 @@
-# France
+---
+title: France
+---
 
 - SNCF (TER, TGV, Transilien, Teoz): Yes
 - RER: Yes
@@ -10,7 +12,7 @@ SNCF is the biggest train network, with other European lines overlapping into th
 
 **General Advice:** [SNCF.com - Bike on Board](https://www.sncf.com/en/passenger-offer/travel-for-everyone/bike-on-board)
 
-_In 2019-2020 there were (and still are?) a lot of strikes. Google Maps won't have a clue about the strikes, and will proudly tell you all about trains which don't exist. To avoid getting caught out, use the [OUI.SNCF](https://en.oui.sncf/en/) website. 
+In 2019-2020 there were (and still are?) a lot of strikes. Google Maps won't have a clue about the strikes, and will proudly tell you all about trains which don't exist. To avoid getting caught out, use the [OUI.SNCF](https://en.oui.sncf/en/) website. 
 
 [OUI.SNCF](https://en.oui.sncf/en/) is amazing, and will help you book a trip where you can specifically mention that you have a bike. You say if it's a foldable bike, in a bag, or fully assembled, and plot in the route you'd like to take. If there is a route, even if its slower or whatever, you'll find it through this site.
 

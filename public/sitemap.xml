@@ -4,6 +4,11 @@
   
   <url>
     <loc>https://bikesontrains.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bikesontrains.com/</loc>
   </url>
   
   <url>
